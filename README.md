@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sugam Kushwaha
 
-🎯 **Java Developer | Spring Boot | Frontend Enthusiast**
+🎯 **Java Developer | Spring Boot**
 
 Welcome to my GitHub profile!  
 I’m passionate about building web applications with clean architecture and solid backend design.
