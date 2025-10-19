@@ -16,7 +16,7 @@ I’m passionate about building web applications with clean architecture and sol
 ---
 
 ### 🚀 Projects
-- 🛒 [Shopping Cart Application](https://github.com/yourusername/Shopping_Cart)
+- 🛒 [Shopping Cart Application](https://github.com/SugamKushwaha/LE-LO-e-commerce-)
 
 ---
 
