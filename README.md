@@ -11,7 +11,7 @@ I’m passionate about building web applications with clean architecture and sol
 - 💻 Currently working on: **E-commerce Shopping Cart (Spring Boot + Thymeleaf)**
 - 🌱 Learning: **Microservices, REST APIs**
 - ⚙️ Tech Stack: `Java` | `Spring Boot` | `HTML` | `CSS` | `JavaScript` | `MySQL`
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sugam-kushwaha-605944267/) | [Email](kushwahasugam66@gmail.com)
 
 ---
 
