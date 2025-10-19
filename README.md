@@ -17,8 +17,6 @@ I’m passionate about building web applications with clean architecture and sol
 
 ### 🚀 Projects
 - 🛒 [Shopping Cart Application](https://github.com/yourusername/Shopping_Cart)
-- 📘 [Student Management System](https://github.com/yourusername/Student_Management)
-- 💼 [Portfolio Website](https://yourportfolio.com)
 
 ---
 
