@@ -29,5 +29,7 @@ I’m passionate about building web applications with clean architecture and sol
 `Java` • `Spring Boot` • `MySQL` • `HTML` • `CSS` • `Thymeleaf` • `Git`
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugamkushwaha&layout=compact&theme=tokyonight)
+
 
 ⭐ **“Code is like humor. When you have to explain it, it’s bad.”**
