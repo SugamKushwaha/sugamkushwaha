@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Sugam Kushwaha
 
-<!--
-**SugamKushwaha/sugamkushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Java Developer | Spring Boot | Frontend Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I’m passionate about building web applications with clean architecture and solid backend design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+- 💻 Currently working on: **E-commerce Shopping Cart (Spring Boot + Thymeleaf)**
+- 🌱 Learning: **Microservices, REST APIs**
+- ⚙️ Tech Stack: `Java` | `Spring Boot` | `HTML` | `CSS` | `JavaScript` | `MySQL`
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@gmail.com)
+
+---
+
+### 🚀 Projects
+- 🛒 [Shopping Cart Application](https://github.com/yourusername/Shopping_Cart)
+- 📘 [Student Management System](https://github.com/yourusername/Student_Management)
+- 💼 [Portfolio Website](https://yourportfolio.com)
+
+---
+
+### 📊 GitHub Stats
+![Sugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sugamkushwaha&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌟 Highlighted Skills
+`Java` • `Spring Boot` • `MySQL` • `HTML` • `CSS` • `Thymeleaf` • `Git`
+
+---
+
+⭐ **“Code is like humor. When you have to explain it, it’s bad.”**
