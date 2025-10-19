@@ -29,9 +29,8 @@ I’m passionate about building web applications with clean architecture and sol
 `Java` • `Spring Boot` • `MySQL` • `HTML` • `CSS` • `Thymeleaf` • `Git`
 
 ---
+![Visitors](https://komarev.com/ghpvc/?username=sugamkushwaha&color=blue)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:youremail@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugamkushwaha&layout=compact&theme=tokyonight)
 
